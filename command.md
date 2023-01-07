@@ -1,0 +1,21 @@
+# Linux 명령어
+- ls
+  - 현재 경로 파일 리스트
+- pwd
+  - 현재 디렉토리
+- cd
+  - 디렉토리 변경
+- mkdir
+  - 디렉토리 생성
+- history
+  - 명령어 history
+- ufw
+  - 방화벽 설정
+- ps -aux
+  - 현재 실행중인 프로세스
+- netstat - tnl
+  - 현재 상용중인 TCP
+- rm 이름
+  - 파일 지우기
+- rm 이름 -rf
+  - 디렉토리 지우기
